@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 2
+
+img: cabin.png
+alt: image-alt
+
+
+description: This is a photo that I took while hiking. The mountain with snow in the background is Mount Timponogos.
+---
